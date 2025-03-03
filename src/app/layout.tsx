@@ -5,7 +5,20 @@ export const metadata: Metadata = {
   title: 'ToolsEmpire',
   description: 'Tools to make you gamba experience a little bit better.',
   icons: {
-    icon: '/favicon.png',
+    icon: [
+      {
+        url: '/favicon.png',
+        type: 'image/png',
+        sizes: '32x32'
+      },
+      {
+        url: '/favicon.png',
+        type: 'image/png',
+        sizes: '16x16'
+      }
+    ],
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
   },
   openGraph: {
     title: 'ToolsEmpire',
