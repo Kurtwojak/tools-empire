@@ -248,7 +248,7 @@ export default function XPCalculator() {
       const currentRank = getLevelName(level);
       
       const resultJSX = (
-        <>
+        <div className="whitespace-pre-line">
           Current: Level {level} ({currentRank}) <RankIcon rank={currentRank} />
           {'\n\n'}With a wager of {wager.toLocaleString()} <CoinsWithIcon />:
           {'\n\n'}
@@ -264,15 +264,15 @@ export default function XPCalculator() {
                 {'\n'}  → Total XP: {newXP.toLocaleString()}
                 {'\n'}  → New Level: {newLevel} ({newRank}) <RankIcon rank={newRank} />
                 {levelDiff > 0 && (
-                  <>{'\n'}  → Level up! +{levelDiff} levels</>
+                  <span>{'\n'}  → Level up! +{levelDiff} levels</span>
                 )}
                 {newLevel < 129 && (
-                  <>{'\n'}  → XP needed for next level: {(nextLevelXP - newXP).toLocaleString()}</>
+                  <span>{'\n'}  → XP needed for next level: {(nextLevelXP - newXP).toLocaleString()}</span>
                 )}
               </div>
             );
           })}
-        </>
+        </div>
       );
       
       setResult(resultJSX);
@@ -298,17 +298,17 @@ export default function XPCalculator() {
       const targetRank = getLevelName(targetLevel);
       
       const resultJSX = (
-        <>
+        <div className="whitespace-pre-line">
           Current: Level {level} ({currentRank}) <RankIcon rank={currentRank} />
           {'\n'}Target: Level {targetLevel} ({targetRank}) <RankIcon rank={targetRank} />
           {'\n'}To reach Level {targetLevel}, you need to wager:
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Roulette']).toLocaleString()} coins in Roulette <GameModeIcon mode=&quot;Roulette&quot; />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Cases']).toLocaleString()} coins in Cases <GameModeIcon mode=&quot;Cases&quot; />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['CaseBattle']).toLocaleString()} coins in Case Battles <GameModeIcon mode=&quot;CaseBattle&quot; />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Coinflip']).toLocaleString()} coins in Coinflip <GameModeIcon mode=&quot;Coinflip&quot; />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetSingle']).toLocaleString()} coins in Single Matchbet <GameModeIcon mode=&quot;MatchbetSingle&quot; />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetCombo']).toLocaleString()} coins in Combo Matchbet <GameModeIcon mode=&quot;MatchbetCombo&quot; />
-        </>
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Roulette']).toLocaleString()} coins in Roulette <GameModeIcon mode="Roulette" />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Cases']).toLocaleString()} coins in Cases <GameModeIcon mode="Cases" />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['CaseBattle']).toLocaleString()} coins in Case Battles <GameModeIcon mode="CaseBattle" />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Coinflip']).toLocaleString()} coins in Coinflip <GameModeIcon mode="Coinflip" />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetSingle']).toLocaleString()} coins in Single Matchbet <GameModeIcon mode="MatchbetSingle" />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetCombo']).toLocaleString()} coins in Combo Matchbet <GameModeIcon mode="MatchbetCombo" />
+        </div>
       );
       
       setResult(resultJSX);
