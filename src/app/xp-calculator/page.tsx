@@ -231,7 +231,9 @@ export default function XPCalculator() {
 
     const maxProgress = LEVEL_XP_MAP[level + 1] - LEVEL_XP_MAP[level];
     if (isNaN(progress) || progress < 0 || progress > maxProgress) {
-      setResult(`Please enter a valid progress XP (0-${maxProgress.toLocaleString()})`.replace(/"/g, '&quot;'));
+      setResult(
+        <>Please enter a valid progress XP (0-{maxProgress.toLocaleString()})</>
+      );
       return;
     }
 
