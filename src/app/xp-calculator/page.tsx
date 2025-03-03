@@ -225,7 +225,7 @@ export default function XPCalculator() {
     const progress = parseFloat(progressXP);
     
     if (isNaN(level) || level < 1 || level > 129) {
-      setResult('Please enter a valid level (1-129)');
+      setResult(<>Please enter a valid level (1-129)</>);
       return;
     }
 
@@ -240,7 +240,7 @@ export default function XPCalculator() {
     if (mode === 'wager') {
       const wager = parseFloat(wagerAmount);
       if (isNaN(wager) || wager < 0) {
-        setResult('Please enter a valid wager amount');
+        setResult(<>Please enter a valid wager amount</>);
         return;
       }
 
@@ -262,8 +262,12 @@ export default function XPCalculator() {
                 {'\n'}  → Gain {xpGain.toLocaleString()} XP
                 {'\n'}  → Total XP: {newXP.toLocaleString()}
                 {'\n'}  → New Level: {newLevel} ({newRank}) <RankIcon rank={newRank} />
-                {levelDiff > 0 && `\n  → Level up! +${levelDiff} levels`}
-                {newLevel < 129 && `\n  → XP needed for next level: ${(nextLevelXP - newXP).toLocaleString()}`}
+                {levelDiff > 0 && (
+                  <>{'\n'}  → Level up! +{levelDiff} levels</>
+                )}
+                {newLevel < 129 && (
+                  <>{'\n'}  → XP needed for next level: {(nextLevelXP - newXP).toLocaleString()}</>
+                )}
               </div>
             );
           })}
@@ -274,7 +278,7 @@ export default function XPCalculator() {
     } else {
       const targetLevel = parseInt(desiredLevel);
       if (isNaN(targetLevel) || targetLevel < 1 || targetLevel > 129) {
-        setResult('Please enter a valid desired level (1-129)');
+        setResult(<>Please enter a valid desired level (1-129)</>);
         return;
       }
 
