@@ -45,52 +45,87 @@ const CaseCard = ({ caseData, count = 1 }: { caseData: Case; count?: number }) =
     'Natural Disaster', 'CT Upgrade', 'Navaja Ninja', 'Rush B', 'Lover Boy', 'Dark Fever', 'Printstream', 
     'Camouflaged', 'Old Steel', 'Asiimov', 'Quickscope', 'Hypnotic', 'Armed Conflict', 'Road Rash', 'Imperial', 
     'Crimson Terror', 'Red Alert'].includes(caseData.case_name);
+  const isLowRisk = ['Odin', 'Kingdom', 'Marbled', 'Predator', 'Gamma Ray', 'Pot Of Gold', 'Serpent', 'Aquatic', 
+    'Butterfly Effect', 'Vice', 'Toucan', 'Assault', 'Butcher', 'Blood Moon', 'Shooting Iron', 'Night Rider',
+    'Doppler Effect', 'Royalty'].includes(caseData.case_name);
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(caseData.case_name);
   };
 
   return (
-    <div className="relative bg-terminal-dark border border-terminal-green p-4 rounded-lg hover:border-opacity-80 transition-all duration-300 flex flex-col items-center">
+    <div className="relative bg-terminal-dark border border-terminal-green p-2 rounded-lg hover:border-opacity-80 transition-all duration-300 flex flex-col items-center">
       {count > 1 && (
-        <div className="absolute top-2 right-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-terminal-green border border-terminal-green">
+        <div className="absolute top-1 right-1 inline-flex items-center h-4 px-0.5 rounded text-[10px] bg-black/50 backdrop-blur-sm text-white border border-white/50 min-w-min whitespace-nowrap">
           x{count}
         </div>
       )}
 
-      {caseData.tags && typeof caseData.tags === 'object' && Object.entries(caseData.tags).map(([percentage, color]) => (
-        percentage.includes('%') ? (
-          <div
-            key={percentage}
-            className="absolute top-2 left-2 px-2 py-1 rounded text-xs bg-black/50 backdrop-blur-sm text-red-500 border border-red-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(239,68,68,0.5)] hover:border-opacity-80 hover:text-opacity-80"
-          >
-            {percentage}
+      <div className="absolute top-1 left-1 flex flex-col gap-0.5">
+        {/* Risk Level Tag */}
+        {isHighRisk && (
+          <div className="inline-flex items-center h-4 px-1.5 rounded text-[10px] bg-black/50 backdrop-blur-sm text-red-500 border border-red-500 whitespace-nowrap">
+            HIGH RISK
           </div>
-        ) : percentage === 'New' ? (
-          <div
-            key={percentage}
-            className="absolute top-2 left-2 px-2 py-1 rounded text-xs bg-black/50 backdrop-blur-sm text-yellow-500 border border-yellow-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(234,179,8,0.5)] hover:border-opacity-80 hover:text-opacity-80"
-          >
-            NEW
+        )}
+        {isMediumRisk && (
+          <div className="inline-flex items-center h-4 px-1.5 rounded text-[10px] bg-black/50 backdrop-blur-sm text-orange-500 border border-orange-500 whitespace-nowrap">
+            MEDIUM RISK
           </div>
-        ) : null
-      ))}
+        )}
+        {isLowRisk && (
+          <div className="inline-flex items-center h-4 px-1.5 rounded text-[10px] bg-black/50 backdrop-blur-sm text-green-500 border border-green-500 whitespace-nowrap">
+            LOW RISK
+          </div>
+        )}
+        
+        {/* Percentage Tag */}
+        {caseData.tags && typeof caseData.tags === 'object' && Object.entries(caseData.tags).map(([percentage, color]) => (
+          percentage.includes('%') ? (
+            <div
+              key={percentage}
+              className="inline-flex items-center h-4 px-0.5 rounded text-[10px] bg-black/50 backdrop-blur-sm text-red-500 border border-red-500 min-w-min whitespace-nowrap"
+            >
+              {percentage}
+            </div>
+          ) : percentage === 'New' ? (
+            <div
+              key={percentage}
+              className="inline-flex items-center h-4 px-0.5 rounded text-[10px] bg-black/50 backdrop-blur-sm text-yellow-500 border border-yellow-500 min-w-min whitespace-nowrap"
+            >
+              NEW
+            </div>
+          ) : null
+        ))}
+      </div>
 
-      <div className="w-full h-[200px] flex items-center justify-center mb-4">
+      <div className="w-full h-[160px] flex items-center justify-center mb-2">
         <Image
           src={`${caseData.image_url}x340`}
           alt={caseData.case_name}
-          width={200}
-          height={200}
-          className="w-auto h-auto max-h-[180px] object-contain"
+          width={160}
+          height={160}
+          className="w-auto h-auto max-h-[140px] object-contain"
         />
       </div>
 
-      <div className="text-center mt-auto">
-        <h3 className="text-terminal-green font-medium mb-2">{caseData.case_name}</h3>
+      <div className="text-center mt-auto w-full">
+        <h3 className="text-terminal-green font-medium mb-1 text-sm">
+          {caseData.case_name}
+        </h3>
+        <button
+          onClick={copyToClipboard}
+          className="text-white/70 hover:text-white transition-colors mb-1 flex items-center justify-center gap-1 mx-auto text-[10px]"
+          title="Copy case name"
+        >
+          COPY
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+          </svg>
+        </button>
         <div className="flex items-center justify-center gap-1">
-          <span className="text-terminal-green">{formatPrice(caseData.total_price)}</span>
-          <Image src="/Coins.svg" alt="coins" width={14} height={14} />
+          <span className="text-terminal-green text-sm">{formatPrice(caseData.total_price)}</span>
+          <Image src="/Coins.svg" alt="coins" width={12} height={12} />
         </div>
       </div>
     </div>
@@ -335,7 +370,7 @@ export default function CaseBattlesBuilder() {
                 <Image src="/Coins.svg" alt="coins" width={14} height={14} />
               </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 md:gap-4">
               {groupedCases.map((item, index) => (
                 <CaseCard key={index} caseData={item.case} count={item.count} />
               ))}
