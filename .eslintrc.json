@@ -1,15 +1,9 @@
 {
-  "extends": [
-    "next/core-web-vitals",
-    "eslint:recommended",
-    "plugin:@typescript-eslint/recommended",
-    "plugin:react/recommended"
-  ],
+  "extends": ["next/core-web-vitals"],
   "parser": "@typescript-eslint/parser",
-  "plugins": ["@typescript-eslint", "react"],
+  "plugins": ["@typescript-eslint"],
   "rules": {
-    "react/react-in-jsx-scope": "off",
-    "react/prop-types": "off"
+    "react/react-in-jsx-scope": "off"
   },
   "settings": {
     "react": {
