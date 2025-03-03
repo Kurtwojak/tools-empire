@@ -139,7 +139,7 @@ export default function GiftCardGenerator() {
 
         <div className="mt-8 p-4 border-2 border-yellow-500 bg-yellow-500/10 rounded">
           <p className="text-yellow-500 text-sm text-center">
-            This is for satire/meme use only, if you're looking for free coins DM Enzo on CSGOEmpire Discord.
+            This is for satire/meme use only, if you&apos;re looking for free coins DM Enzo on CSGOEmpire Discord.
           </p>
         </div>
       </div>
