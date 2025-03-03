@@ -7,18 +7,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/favicon.png',
-        type: 'image/png',
-        sizes: '32x32'
-      },
-      {
-        url: '/favicon.png',
-        type: 'image/png',
-        sizes: '16x16'
+        url: '/favicon.ico',
+        sizes: 'any'
       }
     ],
-    shortcut: '/favicon.png',
-    apple: '/favicon.png',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
   },
   openGraph: {
     title: 'ToolsEmpire',
@@ -48,7 +42,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/png" href="/favicon.png" />
+        <link rel="icon" href="/favicon.ico" />
       </head>
       <body className="min-h-screen bg-black text-[#00ff00] font-['Kode_Mono']">{children}</body>
     </html>
