@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 'use client';
 
 import { useState, ReactNode } from 'react';
@@ -301,12 +302,12 @@ export default function XPCalculator() {
           Current: Level {level} ({currentRank}) <RankIcon rank={currentRank} />
           {'\n'}Target: Level {targetLevel} ({targetRank}) <RankIcon rank={targetRank} />
           {'\n'}To reach Level {targetLevel}, you need to wager:
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Roulette']).toLocaleString()} coins in Roulette <GameModeIcon mode="Roulette" />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Cases']).toLocaleString()} coins in Cases <GameModeIcon mode="Cases" />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['CaseBattle']).toLocaleString()} coins in Case Battles <GameModeIcon mode="CaseBattle" />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Coinflip']).toLocaleString()} coins in Coinflip <GameModeIcon mode="Coinflip" />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetSingle']).toLocaleString()} coins in Single Matchbet <GameModeIcon mode="MatchbetSingle" />
-          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetCombo']).toLocaleString()} coins in Combo Matchbet <GameModeIcon mode="MatchbetCombo" />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Roulette']).toLocaleString()} coins in Roulette <GameModeIcon mode=&quot;Roulette&quot; />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Cases']).toLocaleString()} coins in Cases <GameModeIcon mode=&quot;Cases&quot; />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['CaseBattle']).toLocaleString()} coins in Case Battles <GameModeIcon mode=&quot;CaseBattle&quot; />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['Coinflip']).toLocaleString()} coins in Coinflip <GameModeIcon mode=&quot;Coinflip&quot; />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetSingle']).toLocaleString()} coins in Single Matchbet <GameModeIcon mode=&quot;MatchbetSingle&quot; />
+          {'\n'}• {Math.ceil(requiredWager / GAME_MODE_XP['MatchbetCombo']).toLocaleString()} coins in Combo Matchbet <GameModeIcon mode=&quot;MatchbetCombo&quot; />
         </>
       );
       
