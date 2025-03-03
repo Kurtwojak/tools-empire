@@ -1,0 +1,1252 @@
+[
+  {
+    "case_name": "Majesty",
+    "total_price": 2574798,
+    "hash": "4d5e5d7ac7db271362d0bb13e9abc496",
+    "slug": "majesty",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3e73cb71-566c-4f58-c955-5ffddf5f4200/"
+  },
+  {
+    "case_name": "Bishop",
+    "total_price": 2089741,
+    "hash": "228764b373e26ca5c247f0cbd0b47dd1",
+    "slug": "bishop",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/6c65973f-13ae-4097-7943-8b2b5724e900/"
+  },
+  {
+    "case_name": "Stronghold",
+    "total_price": 1670927,
+    "hash": "d06e9c8c287c7ab28cd8913bea56613d",
+    "slug": "stronghold",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/65ad2c43-28c9-4b23-2f98-921720775600/"
+  },
+  {
+    "case_name": "Barbarian",
+    "total_price": 1299798,
+    "hash": "6f4ac39af119d1d4d97fb921cffba5ad",
+    "slug": "barbarian",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c8abec1c-66a9-4818-17a3-b3e9bccf9800/"
+  },
+  {
+    "case_name": "King's Gambit",
+    "total_price": 925459,
+    "hash": "22f3f7ca49baa063352512d101430ea0",
+    "slug": "kings-gambit",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c1d32172-08fc-4a33-e5d8-252f713d5800/"
+  },
+  {
+    "case_name": "Heirloom",
+    "total_price": 742954,
+    "hash": "00fe38d8be662441a46801f62c6b0602",
+    "slug": "heirloom",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/e5eb1ee1-b197-4db6-4a6a-8af273414500/"
+  },
+  {
+    "case_name": "The Aether",
+    "total_price": 507177,
+    "hash": "25bf8432891c366f4fd7863497b4b14d",
+    "slug": "the-aether",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/b5f3ffe1-9be9-42a7-636d-4cd904c53100/"
+  },
+  {
+    "case_name": "Police Raid",
+    "total_price": 311476,
+    "hash": "81c0f65aebf70ebb9721264600ad1636",
+    "slug": "police-raid",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/d298c6ba-af8e-4ebd-f504-297973f9f800/"
+  },
+  {
+    "case_name": "Golden Ticket",
+    "total_price": 203180,
+    "hash": "deab4424a1e78e124aa3e3035ab7ca8b",
+    "slug": "golden-ticket",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/1b456dc0-fee9-499f-7d4e-2b2ac1c9b400/"
+  },
+  {
+    "case_name": "Dream Doppler",
+    "total_price": 173449,
+    "hash": "21f37feecfc2ad1da71f4d5cd1a2643f",
+    "slug": "dream-doppler",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/28c14158-daef-4ae4-348d-683071645700/"
+  },
+  {
+    "case_name": "Artisan",
+    "total_price": 150438,
+    "hash": "af600e1ebc6d14ec91016ad799094cae",
+    "slug": "artisan",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/0552febe-0bb4-4e0a-ff6c-59dd15962300/"
+  },
+  {
+    "case_name": "Commonwealth",
+    "total_price": 132590,
+    "hash": "f8a6468bb4b225db327d294c20ae969c",
+    "slug": "commonwealth",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3b50c6db-5291-4330-e20a-53b11ffe3600/"
+  },
+  {
+    "case_name": "Endgame",
+    "total_price": 123396,
+    "hash": "d522958d1c1bddc33d854efe95bcf0e6",
+    "slug": "endgame",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/cb27993d-bf7d-4913-a50c-d9bd5df8d100/"
+  },
+  {
+    "case_name": "Odin",
+    "total_price": 109038,
+    "hash": "e00c9c6227bc02ca516800e0f6833b4a",
+    "slug": "odin",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/70766405-7082-4ce6-dc93-6be9dca67400/"
+  },
+  {
+    "case_name": "Howling Dawn",
+    "total_price": 104039,
+    "hash": "ff7d8db8a052b95f192e3f6b3ad5c87e",
+    "slug": "howling-dawn",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/b55c46a1-232d-4b40-a591-248f2c5cc600/"
+  },
+  {
+    "case_name": "Expensive Knives",
+    "total_price": 97077,
+    "hash": "ca21ff45cb6c490cd2462e57c7f5c4e7",
+    "slug": "expensive-knives",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8b89a59f-ad06-4ee4-3ab6-e446184c8c00/"
+  },
+  {
+    "case_name": "Neon",
+    "total_price": 95716,
+    "hash": "253fd4eff80c634a229a2d5141ed7bb1",
+    "slug": "neon",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/085664e2-9731-4a49-4d58-c8b7c170da00/"
+  },
+  {
+    "case_name": "Titan",
+    "total_price": 89172,
+    "hash": "1e61eed17f2f8a75128abf61c9602ce2",
+    "slug": "titan",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/22bfe8c2-8627-46c4-8a46-8a18d222ff00/"
+  },
+  {
+    "case_name": "Kingdom",
+    "total_price": 84365,
+    "hash": "b9a72a647725a898d7a5b2888c91d143",
+    "slug": "kingdom",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/4a8516c3-f704-4baf-7bff-ffd8e4250600/"
+  },
+  {
+    "case_name": "Expensive Gloves",
+    "total_price": 79024,
+    "hash": "f4b22ed96eea3c7128e0d3dc4424e4b5",
+    "slug": "expensive-gloves",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/4b1aa3fc-f1f0-498e-bf69-7695fbf9b300/"
+  },
+  {
+    "case_name": "Fly High",
+    "total_price": 71524,
+    "hash": "587d4bd23e8f553742a9c18179701740",
+    "slug": "fly-high",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/e18aff33-043e-40dc-9441-f8e799f98d00/"
+  },
+  {
+    "case_name": "Black Death",
+    "total_price": 66600,
+    "hash": "bd1442c93bc0b636844b18d69081d48d",
+    "slug": "black-death",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/dae0519e-fb7a-4713-4552-ed22ddd6be00/"
+  },
+  {
+    "case_name": "Marbled",
+    "total_price": 65007,
+    "hash": "70d0dd23a7c23e3e357ddb0f1914c9fa",
+    "slug": "marbled",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/2d05871a-9848-4b5f-436d-865e32aeeb00/"
+  },
+  {
+    "case_name": "Moonshot",
+    "total_price": 59391,
+    "hash": "9194d7389bf1cb5fd3ce4eb7d3a5fbfa",
+    "slug": "moonshot",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/01fa2a79-a6ee-4c18-a8cd-7eb39f0c7400/"
+  },
+  {
+    "case_name": "Angelic",
+    "total_price": 56075,
+    "hash": "b414aeb6a32ddf35881a8d8c35a11225",
+    "slug": "angelic",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/123dd31a-2e1a-4353-9c30-8f5c2fa20500/"
+  },
+  {
+    "case_name": "Predator",
+    "total_price": 55671,
+    "hash": "ae40ad13338301a10b7828b9e46cb842",
+    "slug": "predator",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/6b157db0-aef5-41a4-23bc-523515358900/"
+  },
+  {
+    "case_name": "Sweet Dreams",
+    "total_price": 49985,
+    "hash": "522d3568117db8627208085b1ad1759a",
+    "slug": "sweet-dreams",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/e4373510-5eb9-48bc-f9d2-a43244d4c400/"
+  },
+  {
+    "case_name": "Medusa",
+    "total_price": 42622,
+    "hash": "0b604735b0952e4922710a09cb189df8",
+    "slug": "medusa",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/21ceebaf-a409-49b3-31c3-979bd20e2b00/"
+  },
+  {
+    "case_name": "Mother Nature",
+    "total_price": 41663,
+    "hash": "83eb0623f8b052bb9431ba52335aa91f",
+    "slug": "mother-nature",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7a76e7eb-4cfd-4866-970a-87b2a7d27000/"
+  },
+  {
+    "case_name": "Few Handshakes",
+    "total_price": 41027,
+    "hash": "0de7d3770f0726492275f46cad442dbe",
+    "slug": "few-handshakes",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3473aecc-a2a6-4a0b-8993-a84bf3756c00/"
+  },
+  {
+    "case_name": "Bloodshed",
+    "total_price": 36973,
+    "hash": "a413edade698e4dcaebbb58dd14f1014",
+    "slug": "bloodshed",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/af8fac31-8f99-439f-1ea5-c152ed293400/"
+  },
+  {
+    "case_name": "Gamma Ray",
+    "total_price": 32104,
+    "hash": "9a2c02987086f30e02cfc6f30827d542",
+    "slug": "gamma-ray",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c14cdc8c-85c9-49a2-f4e1-7085fff4f300/"
+  },
+  {
+    "case_name": "Dark Knight",
+    "total_price": 30303,
+    "hash": "2a105fd729244e8c447a1f645aed21d3",
+    "slug": "dark-knight",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/62f65a7e-d0b6-484b-60cb-b2aa3e6f6700/"
+  },
+  {
+    "case_name": "Gauntlet",
+    "total_price": 28533,
+    "hash": "7d9f1e2438990604f553d9ec986b4f7e",
+    "slug": "gauntlet",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/4502d96c-c760-4478-c0d7-daac541fc800/"
+  },
+  {
+    "case_name": "Dream Knife",
+    "total_price": 26165,
+    "hash": "519466f13bb0deb24ad7f1b53dc534f6",
+    "slug": "dream-knife",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/08f8ca3e-c947-4b40-597f-20575ceba000/"
+  },
+  {
+    "case_name": "Black Pearl",
+    "total_price": 23972,
+    "hash": "c3de6da18fb5e43670358a4bb4da1d61",
+    "slug": "black-pearl",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/66d66ae9-789c-48e1-3ea1-ac3d6f205000/"
+  },
+  {
+    "case_name": "Pot Of Gold",
+    "total_price": 22153,
+    "hash": "212c2ea428f5b05b53d323a9e17d7fa7",
+    "slug": "pot-of-gold",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/0313bc76-fb4c-4a99-923f-c22e6f5a6800/"
+  },
+  {
+    "case_name": "Silver Surfer",
+    "total_price": 20460,
+    "hash": "7c96d587cef2d91f8e2f9256ff3396ef",
+    "slug": "silver-surfer",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/a921a601-ee27-4a0f-6e59-9fb6cfcae400/"
+  },
+  {
+    "case_name": "Immoral",
+    "total_price": 18868,
+    "hash": "e883471eafe68695a1e8ff3dc1f3c118",
+    "slug": "immoral",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/edddd93e-2ade-4182-be7b-598990a4ce00/"
+  },
+  {
+    "case_name": "Cheap Knives",
+    "total_price": 17852,
+    "hash": "c4e8f0f81385869513be8871585ed6a3",
+    "slug": "cheap-knives",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/aa9a65c6-64f5-4c71-eeb8-f61f3cbe8700/"
+  },
+  {
+    "case_name": "Mystery Combo",
+    "total_price": 17203,
+    "hash": "dfc3a3fbbe21d24983150fe626a85381",
+    "slug": "mystery-combo",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/02c9520b-1602-44e3-5499-cbdebc5d5b00/"
+  },
+  {
+    "case_name": "Serpent",
+    "total_price": 16610,
+    "hash": "34119b264de6be677ec42ec5083f2238",
+    "slug": "serpent",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c63008e7-7481-4a82-b6e5-80cdef201500/"
+  },
+  {
+    "case_name": "King of Snakes",
+    "total_price": 15244,
+    "hash": "46ee3e360416a1c391b7312062aae5b6",
+    "slug": "king-of-snakes",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7d6ab0ec-f16d-4010-f2a3-65dd01e0f800/"
+  },
+  {
+    "case_name": "Aquatic",
+    "total_price": 15161,
+    "hash": "a91b7c26741f1c1b87076b1fdb3f64bf",
+    "slug": "aquatic",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3d96587a-d7cf-424e-b395-3149e8db3c00/"
+  },
+  {
+    "case_name": "Cheap Gloves",
+    "total_price": 12726,
+    "hash": "8ff8aaff5ca2071170e6ec775de80f4a",
+    "slug": "cheap-gloves",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/32defc06-28ca-46c9-4a57-f4240a48d800/"
+  },
+  {
+    "case_name": "Butterfly Effect",
+    "total_price": 11003,
+    "hash": "a00eb4e0e430d79dd29a2c6d92711895",
+    "slug": "butterfly-effect",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7a6cdfde-f96d-4113-4ade-5721c551b400/"
+  },
+  {
+    "case_name": "Digging For Gold",
+    "total_price": 10702,
+    "hash": "6eb45ec21451808121ecf1b277f1dbd4",
+    "slug": "digging-for-gold",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8f1c20df-af19-4c7e-a208-e0afc731f600/"
+  },
+  {
+    "case_name": "Birds Of Prey",
+    "total_price": 10600,
+    "hash": "d8e4990817c2758109417ee84d95e355",
+    "slug": "birds-of-prey",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/2585c581-42b9-42a3-63d8-fbc947ba6a00/"
+  },
+  {
+    "case_name": "Cosmic Boom",
+    "total_price": 10208,
+    "hash": "afb5443a40ce03580fbcccb101e8f5c3",
+    "slug": "cosmic-boom",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/90888bfc-f0ea-4454-82a9-34f07f40b900/"
+  },
+  {
+    "case_name": "Ophidian",
+    "total_price": 9895,
+    "hash": "f8ad8354076b014966ed77bbc042de91",
+    "slug": "ophidian",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/f44a2d58-b102-4b00-c578-a593b358c000/"
+  },
+  {
+    "case_name": "Blue Haven",
+    "total_price": 9721,
+    "hash": "4b2852e3e0624b291c1a142de9c5b19f",
+    "slug": "blue-haven",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/56f1e57a-8558-4498-b5a4-2c82dca3f600/"
+  },
+  {
+    "case_name": "Crimson Web",
+    "total_price": 9712,
+    "hash": "b73d43ee3e5bea1f00ab65030c19e9c0",
+    "slug": "crimson-web",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/25d1d9ec-75f0-457d-f552-1cf731bdd600/"
+  },
+  {
+    "case_name": "Risky Doppler",
+    "total_price": 9339,
+    "hash": "8d894245ce9756135a09c7aa01c7b87a",
+    "slug": "risky-doppler",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/6f484f18-fe21-43da-d9c2-7b4c7bac7900/"
+  },
+  {
+    "case_name": "N-ball",
+    "total_price": 8888,
+    "hash": "028ff4ff583c06af69095d0f7d35bd38",
+    "slug": "n-ball",
+    "tags": {
+      "New": "Green"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8d345f8f-7b08-47a2-f4d2-1acf94dd6e00/"
+  },
+  {
+    "case_name": "Desire",
+    "total_price": 8868,
+    "hash": "e49326d95bf5852f86106cffca50dd18",
+    "slug": "desire",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8f73de86-769c-4674-a2bd-b694a305ce00/"
+  },
+  {
+    "case_name": "Secret Agent",
+    "total_price": 8471,
+    "hash": "4745ef34c5c44917d1c66bce2aca5279",
+    "slug": "secret-agent",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/086b65eb-405a-4e9d-d450-8949a5026400/"
+  },
+  {
+    "case_name": "Red Inferno",
+    "total_price": 8172,
+    "hash": "3902a40f6c3cee75976fb34275cc6f89",
+    "slug": "red-inferno",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/03619c23-3b55-4265-95c2-6eebee74f400/"
+  },
+  {
+    "case_name": "Deep Sea",
+    "total_price": 7851,
+    "hash": "c41a329706e3b8a79bb90c59dfd04b81",
+    "slug": "deep-sea",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/76f66ea1-71d8-4fa8-1612-e4fdbca4be00/"
+  },
+  {
+    "case_name": "Vice",
+    "total_price": 7603,
+    "hash": "5ecc9a7144e3f6c123a1816c141260bd",
+    "slug": "vice",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/2bbfc9e2-36b3-429d-40f8-ba104411b800/"
+  },
+  {
+    "case_name": "Sacred Sapphire",
+    "total_price": 7144,
+    "hash": "6642d55d9b4e74a495fbb25923fcdf85",
+    "slug": "sacred-sapphire",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8bec77c7-318c-4f00-9e39-d7f739d7e400/"
+  },
+  {
+    "case_name": "Demonic",
+    "total_price": 7044,
+    "hash": "5b444400549be4434eb05b8c91351573",
+    "slug": "demonic",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/b0a5a8db-0814-4064-d190-337658a39c00/"
+  },
+  {
+    "case_name": "Freaky Felix",
+    "total_price": 6969,
+    "hash": "aad3f11282a801b3262229f99c918056",
+    "slug": "freaky-felix",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/cce1e35c-9ab3-4db6-561f-1025ed15bc00/"
+  },
+  {
+    "case_name": "Vanilla",
+    "total_price": 6636,
+    "hash": "faaa5ee921d5df3ea1823d5d33a70b19",
+    "slug": "vanilla",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c0bf0367-d26f-4348-6bbc-3111dcba0900/"
+  },
+  {
+    "case_name": "Toucan",
+    "total_price": 6450,
+    "hash": "e3d3998baba35d9979949e57538ffc54",
+    "slug": "toucan",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/5580b57f-ce6b-411f-f173-2acade77af00/"
+  },
+  {
+    "case_name": "Uncut Gems",
+    "total_price": 6129,
+    "hash": "6c11ee9bf29d34e97267e30ee670d62a",
+    "slug": "uncut-gems",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c848ba59-0f31-48b9-f2c0-3714439ff400/"
+  },
+  {
+    "case_name": "Touch Of Lore",
+    "total_price": 6013,
+    "hash": "f0d7a535062b878e4b49d066d0a78413",
+    "slug": "touch-of-lore",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3e3cf1ee-c74d-4827-8e25-d0f50ee66f00/"
+  },
+  {
+    "case_name": "Laminated",
+    "total_price": 5712,
+    "hash": "5de689c60548f70cb811982d123ba34e",
+    "slug": "laminated",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7f33c149-c2c9-4bcc-e659-ed5bab454900/"
+  },
+  {
+    "case_name": "Man",
+    "total_price": 5625,
+    "hash": "ddb9964f3b3ba711fa3e58ad682826e0",
+    "slug": "man",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/2a6135da-6487-4d38-17ce-f33278232900/"
+  },
+  {
+    "case_name": "Tropical Blossom",
+    "total_price": 5563,
+    "hash": "d59a6277d9ab761fdf84deae4cd78262",
+    "slug": "tropical-blossom",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/4ddb94e1-046f-4ee3-bf8c-22eef7266a00/"
+  },
+  {
+    "case_name": "Onyx",
+    "total_price": 5408,
+    "hash": "151693ca003dd8b5aedd723d566cd4d1",
+    "slug": "onyx",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/ccc5f04a-f5b8-46c8-a887-f01cc3e7bf00/"
+  },
+  {
+    "case_name": "Greedy Gamblers",
+    "total_price": 5200,
+    "hash": "d6cc255fddb0115baec34450672295d9",
+    "slug": "greedy-gamblers",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3792cbb5-624c-44cf-63b5-cd6f88278e00/"
+  },
+  {
+    "case_name": "Faded",
+    "total_price": 4993,
+    "hash": "5ee797ed26193293cc34f67fc174c972",
+    "slug": "faded",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7b80082e-a7c5-40a0-d8b7-2ae01dd43200/"
+  },
+  {
+    "case_name": "Skeletal",
+    "total_price": 4886,
+    "hash": "23ae23a8a49ba18366f8bc07b89b8851",
+    "slug": "skeletal",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/2b825f4b-a2cc-46b0-710e-75d92e8bcc00/"
+  },
+  {
+    "case_name": "Assault",
+    "total_price": 4327,
+    "hash": "7308b8a08510a8876ba4fbe153f609a2",
+    "slug": "assault",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/fc42ae9d-f392-4d1b-a762-ddfbe6ce4c00/"
+  },
+  {
+    "case_name": "Walking in London",
+    "total_price": 4313,
+    "hash": "03a4309e8c8f75727cf8639785589ff4",
+    "slug": "walking-in-london",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/f12118e7-4ff4-4fb7-90c9-b3b38d931a00/"
+  },
+  {
+    "case_name": "Shootout",
+    "total_price": 4210,
+    "hash": "cac978a425125216cdb253d425170cb3",
+    "slug": "shootout",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8469338a-3bcc-4af9-d810-914fae943a00/"
+  },
+  {
+    "case_name": "Mystery Knife",
+    "total_price": 4132,
+    "hash": "7d289fdca222b399bf0b40a71206a5f9",
+    "slug": "mystery-knife",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/ef5a63d9-9bbc-4125-5c2d-29b3ad577800/"
+  },
+  {
+    "case_name": "Amethyst Gem",
+    "total_price": 4100,
+    "hash": "988d81b49c2d9b70367f5c47211cb47f",
+    "slug": "amethyst-gem",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9b6f91aa-2f59-4ec6-bc14-84db1478a300/"
+  },
+  {
+    "case_name": "Pandora's Box",
+    "total_price": 3602,
+    "hash": "5655b0c50a57dc605fbbb326e808e9e3",
+    "slug": "pandoras-box",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7c72c85a-f902-4f55-03c6-8287fc0d0800/"
+  },
+  {
+    "case_name": "Fortune",
+    "total_price": 3565,
+    "hash": "d0776563d398c0e5294154423d4a2b50",
+    "slug": "fortune",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7296d148-e532-4347-ffc0-1a1f67136000/"
+  },
+  {
+    "case_name": "Emperor",
+    "total_price": 3458,
+    "hash": "8510f65473ba660fe33795c71b3723a9",
+    "slug": "emperor",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/351d1b2d-2266-45cc-7b32-7a2e190b0200/"
+  },
+  {
+    "case_name": "Minted",
+    "total_price": 3304,
+    "hash": "5c5d80bbcdaa97841d06281484ac2051",
+    "slug": "minted",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/fc98f61b-9ba1-4dc0-451a-997907a82b00/"
+  },
+  {
+    "case_name": "Mystery Gloves",
+    "total_price": 3197,
+    "hash": "c741e06caa47173c1a182b7d5b53ea14",
+    "slug": "mystery-gloves",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/18262943-6054-4679-9957-f34f529dc200/"
+  },
+  {
+    "case_name": "Touching Grass",
+    "total_price": 3189,
+    "hash": "1c76a152c1a944832f23ef3238727623",
+    "slug": "touching-grass",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/f274bd98-d0d4-4ef2-38e1-cee20702bd00/"
+  },
+  {
+    "case_name": "Marksman",
+    "total_price": 3054,
+    "hash": "9a6104c43377d2b0c579803246e14135",
+    "slug": "marksman",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/5de78e6c-1640-4115-4d61-833bd9ef3700/"
+  },
+  {
+    "case_name": "Gamified Racism",
+    "total_price": 2803,
+    "hash": "a5c965eb524caa8a791c6aa1bf62cfc3",
+    "slug": "gamified-racism",
+    "tags": {
+      "New": "Green"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/e2318b3a-fe3a-49f0-182b-02a1c08f4f00/"
+  },
+  {
+    "case_name": "Ice Age",
+    "total_price": 2554,
+    "hash": "7b419d8b1373f489f87b9a28f0c86723",
+    "slug": "ice-age",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c5a705c6-22c0-4dd0-e5e1-0c91b76c9300/"
+  },
+  {
+    "case_name": "Evil Eye",
+    "total_price": 2505,
+    "hash": "ae455ec43865dff4b13d2b1c4f3f0108",
+    "slug": "evil-eye",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/b7079f65-0477-4ed9-eee6-f62e44ae3100/"
+  },
+  {
+    "case_name": "Revolution",
+    "total_price": 2485,
+    "hash": "7cb17dd97af176e3caf575ebb6d412da",
+    "slug": "revolution",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/72e5e74a-f21c-44d2-f0e3-a80addeb5100/"
+  },
+  {
+    "case_name": "Vibrant",
+    "total_price": 2443,
+    "hash": "390c9e774e188139850ffc19af8d27a5",
+    "slug": "vibrant",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/280ab86a-e56d-4feb-45b0-326a65cf9b00/"
+  },
+  {
+    "case_name": "Olympian",
+    "total_price": 2316,
+    "hash": "2859926455502b650416cb5a9eb9a903",
+    "slug": "olympian",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c6493ae2-164a-45c0-7ba2-5d108a8a7000/"
+  },
+  {
+    "case_name": "Butcher",
+    "total_price": 2175,
+    "hash": "7a76d585d1e5a0c738ffd439bedc181f",
+    "slug": "butcher",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/f37d1090-4b5e-441b-4c74-aa7ce8d2fd00/"
+  },
+  {
+    "case_name": "Tiger Strike",
+    "total_price": 2057,
+    "hash": "2c4820a4567f15cd6838c51d46431815",
+    "slug": "tiger-strike",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/d36e8c77-9d0f-44f1-21aa-e31cc6edf500/"
+  },
+  {
+    "case_name": "Stolen Property",
+    "total_price": 2018,
+    "hash": "2ec180e6a7ddabde104dccf4e64a356a",
+    "slug": "stolen-property",
+    "tags": {
+      "New": "Green"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/f56f2201-a2e5-4346-e2af-a03742be4100/"
+  },
+  {
+    "case_name": "Poseidon",
+    "total_price": 1998,
+    "hash": "087c27d58482ff7d207939625ca943aa",
+    "slug": "poseidon",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/bccc3a4b-3dab-455f-7e53-1280fa84ab00/"
+  },
+  {
+    "case_name": "Dengi's Crib",
+    "total_price": 1865,
+    "hash": "f1d0e25c2286d000953d01e21eeb2d1a",
+    "slug": "dengis-crib",
+    "tags": {
+      "New": "Green"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/22d56dbf-f5be-4fe1-5325-65ee073d6300/"
+  },
+  {
+    "case_name": "Tranquillity",
+    "total_price": 1838,
+    "hash": "eb0db641e6c2258bd311f8535499e9a0",
+    "slug": "tranquillity",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9f875d5f-3d48-4fd1-5705-d1ae17570b00/"
+  },
+  {
+    "case_name": "Silent Revolution",
+    "total_price": 1831,
+    "hash": "a5c99d63c90a686f643f51c5ae03818b",
+    "slug": "silent-revolution",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/21c5a127-f6a3-4c50-0ab7-3f1f8eb37200/"
+  },
+  {
+    "case_name": "Primal Instinct",
+    "total_price": 1635,
+    "hash": "92220185735a548f0cd6a01859b01a93",
+    "slug": "primal-instinct",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7c999a92-7620-4b4e-2713-a850af6e5700/"
+  },
+  {
+    "case_name": "Blood Moon",
+    "total_price": 1597,
+    "hash": "9c712c375623f4d348bb1af7fe879efc",
+    "slug": "blood-moon",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/47e3f4d4-83af-487b-9d50-d7383540e600/"
+  },
+  {
+    "case_name": "Toxic Waste",
+    "total_price": 1532,
+    "hash": "b208f2ee311cf2ee2bc8901cfb51892e",
+    "slug": "toxic-waste",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/5e54a987-770f-4cff-41a4-341eaf756e00/"
+  },
+  {
+    "case_name": "Supreme",
+    "total_price": 1528,
+    "hash": "c2dfd13ce8a1a93a3fc72ef36cb1405f",
+    "slug": "supreme",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/271993c4-3a89-43f2-a30b-8d64da050d00/"
+  },
+  {
+    "case_name": "T Upgrade",
+    "total_price": 1488,
+    "hash": "4b80b957a23510eca9c715c6b424a304",
+    "slug": "t-upgrade",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/83f3605f-453e-498b-a1b3-81e923c15d00/"
+  },
+  {
+    "case_name": "Lightning",
+    "total_price": 1338,
+    "hash": "74e781296a34bfe865a1be0d9ae8ae79",
+    "slug": "lightning",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/db6cc9e0-810b-4b41-c6cf-f381453b9700/"
+  },
+  {
+    "case_name": "Rook",
+    "total_price": 1315,
+    "hash": "e58f1ac7c457cae93d38c1492c428564",
+    "slug": "rook",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9f54f2f0-a4c3-415f-2112-4b457ab80400/"
+  },
+  {
+    "case_name": "Rebel AK-47",
+    "total_price": 1250,
+    "hash": "7368fc184a3411da09d9173ed39be9b7",
+    "slug": "rebel-ak-47",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8fc06420-7e87-4ecc-aedd-7084d9e28c00/"
+  },
+  {
+    "case_name": "Box Cutter",
+    "total_price": 1128,
+    "hash": "3a360af4246a991a5f4521059f0557a1",
+    "slug": "box-cutter",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/b61e8367-4040-48be-f663-3c0c1b9b7a00/"
+  },
+  {
+    "case_name": "Deviate",
+    "total_price": 1071,
+    "hash": "68036fddf0694424a21c72b3a682ca20",
+    "slug": "deviate",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/36a7055b-942f-483c-f6d2-175958404300/"
+  },
+  {
+    "case_name": "Shooting Iron",
+    "total_price": 1026,
+    "hash": "bf11c97acd8ac7b319c79256922b5cd1",
+    "slug": "shooting-iron",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9290da5d-0e8e-4869-9657-e23c2b578f00/"
+  },
+  {
+    "case_name": "Desert Bandit",
+    "total_price": 1022,
+    "hash": "b61e3daa0dd1ec2a6bc7a95b64cbd1fd",
+    "slug": "desert-bandit",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/f1aee4a9-63de-445a-3a09-0a2f9d1fca00/"
+  },
+  {
+    "case_name": "Mercenary Glock-18",
+    "total_price": 935,
+    "hash": "01339886d24bab4cca7921d32a5bdfd0",
+    "slug": "mercenary-glock-18",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9696b63b-ba96-45b5-be11-921ed833a800/"
+  },
+  {
+    "case_name": "Lucky Dip",
+    "total_price": 914,
+    "hash": "a6f7b6e773c346302a967ad44cb4dde0",
+    "slug": "lucky-dip",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/3af29d06-d8f6-4d57-081f-f00fd08b0d00/"
+  },
+  {
+    "case_name": "Natural Disaster",
+    "total_price": 911,
+    "hash": "71600fa87c86aba45d1eb3164178695a",
+    "slug": "natural-disaster",
+    "tags": {
+      "New": "Green"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/8a8455d6-a9a6-4856-62e9-df82d2950d00/"
+  },
+  {
+    "case_name": "Thunder Strike",
+    "total_price": 864,
+    "hash": "be47370bb1fa2e395385615a2ff05052",
+    "slug": "thunder-strike",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/05e78840-ea9d-4bf7-9879-91f5aa33d600/"
+  },
+  {
+    "case_name": "CT Upgrade",
+    "total_price": 773,
+    "hash": "95b86d0a7add44b22883ecd88b4dfdea",
+    "slug": "ct-upgrade",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/06369a92-55eb-4f12-91e3-ba3a7de1ec00/"
+  },
+  {
+    "case_name": "Navaja Ninja",
+    "total_price": 710,
+    "hash": "ad22ec493d0621679af753ac5817ad4f",
+    "slug": "navaja-ninja",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/d9a79a9c-28d4-48b7-70c1-cc540eb33800/"
+  },
+  {
+    "case_name": "Kim Bomb Un",
+    "total_price": 690,
+    "hash": "f6b9c3134f70fbdbfc816cb9a246a853",
+    "slug": "kim-bomb-un",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/095f40c4-1256-4ee2-ab19-cfa977175e00/"
+  },
+  {
+    "case_name": "Rush B",
+    "total_price": 642,
+    "hash": "a2af0d3142f8ea7c56156e0d3f77cffd",
+    "slug": "rush-b",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/6c4a9ac9-d592-49a7-fa63-42c673f8e000/"
+  },
+  {
+    "case_name": "Lover Boy",
+    "total_price": 617,
+    "hash": "272164e519ac26acbb1ac0ab589ed570",
+    "slug": "lover-boy",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/ad7a9a05-1dc0-4f8e-be79-d5bace3a3c00/"
+  },
+  {
+    "case_name": "Jungle Luck",
+    "total_price": 587,
+    "hash": "355ad442a514d77ead1b4a5beb88f94e",
+    "slug": "jungle-luck",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/cd575d0f-5f46-49b0-080f-7e21eab31300/"
+  },
+  {
+    "case_name": "Night Rider",
+    "total_price": 545,
+    "hash": "467d2b7e27c0dc54c49a893cc0708042",
+    "slug": "night-rider",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/61727a3e-905a-4621-1706-4d60f1460600/"
+  },
+  {
+    "case_name": "Doppler Effect",
+    "total_price": 520,
+    "hash": "a87c320456974dfa4976b2bcee460946",
+    "slug": "doppler-effect",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/d59f271e-b406-42d1-0601-0078d62a9000/"
+  },
+  {
+    "case_name": "Dark Fever",
+    "total_price": 515,
+    "hash": "559721e73d2cdeb9086fae1dfad07faa",
+    "slug": "dark-fever",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/a8b2a8f2-ea08-46be-184d-ece01b4d9300/"
+  },
+  {
+    "case_name": "Printstream",
+    "total_price": 483,
+    "hash": "2f9f13e486b454ab7cba995efa39f1a8",
+    "slug": "printstream",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/864bf9f3-9d4a-4b77-2c14-32b5c5f0b400/"
+  },
+  {
+    "case_name": "Camouflaged",
+    "total_price": 460,
+    "hash": "4c688b728efca52ad321e892a0d9aec5",
+    "slug": "camouflaged",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/ce2f26d8-2797-4632-7949-7fa41e171d00/"
+  },
+  {
+    "case_name": "Sand Storm",
+    "total_price": 426,
+    "hash": "9e311468382cea0a0043f62fe4f165eb",
+    "slug": "sand-storm",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/553bc787-f9cb-4d73-0445-ab318bb87f00/"
+  },
+  {
+    "case_name": "Economy",
+    "total_price": 379,
+    "hash": "256459406885c941d8bb2ff4b70f3e59",
+    "slug": "economy",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/80c50632-dc89-451a-fe21-64161516e500/"
+  },
+  {
+    "case_name": "Royalty",
+    "total_price": 329,
+    "hash": "d2898e1665aa2ad26a9f5b73f7ad0131",
+    "slug": "royalty",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c05ac356-d4ad-478c-8f38-3a982048d400/"
+  },
+  {
+    "case_name": "Grim Reaper",
+    "total_price": 307,
+    "hash": "e97d26355993f59e0af9a92f35b3e546",
+    "slug": "grim-reaper",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/719f98c2-1da9-4142-ec7e-06a4fb8a3700/"
+  },
+  {
+    "case_name": "Old Steel",
+    "total_price": 298,
+    "hash": "5f9115a0280d8f67e8e294ee88ad05ce",
+    "slug": "old-steel",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/d3c243cf-85d2-4833-5f6f-eb839f391800/"
+  },
+  {
+    "case_name": "Cobalt",
+    "total_price": 277,
+    "hash": "7ff6f33789cfd2351b003f5a6843cdf2",
+    "slug": "cobalt",
+    "tags": {
+      "5%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9a6a5390-6e22-4fa4-b542-fe12604f9500/"
+  },
+  {
+    "case_name": "Asiimov",
+    "total_price": 257,
+    "hash": "bcd61caf6961d8328fd68b599e833139",
+    "slug": "asiimov",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/778c8a71-4229-42e4-ff3e-af4d13771400/"
+  },
+  {
+    "case_name": "Quickscope",
+    "total_price": 223,
+    "hash": "ec365e1898d85700574c3bbc32794930",
+    "slug": "quickscope",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7c7f8f80-0d57-4820-800d-6a33cca89900/"
+  },
+  {
+    "case_name": "Hypnotic",
+    "total_price": 195,
+    "hash": "9f4cb2e346ad057b6b402a78f07e22c5",
+    "slug": "hypnotic",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/59f85d9c-1d3d-44a5-a951-5e51c834be00/"
+  },
+  {
+    "case_name": "One Percent Club",
+    "total_price": 162,
+    "hash": "ef4542d4822c42eebea29dbdd5cd043f",
+    "slug": "one-percent-club",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/9d85bc57-23c3-41d3-7dee-806bda473400/"
+  },
+  {
+    "case_name": "Wildfire",
+    "total_price": 133,
+    "hash": "e214a7a039862041d513d60193156f9e",
+    "slug": "wildfire",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7dbf7fd1-ce81-4f37-4dd9-402f6e665400/"
+  },
+  {
+    "case_name": "Armed Conflict",
+    "total_price": 112,
+    "hash": "a6d3aee2f400cffc94a532566e470646",
+    "slug": "armed-conflict",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/86245b2e-0296-469a-f287-bce1c0709e00/"
+  },
+  {
+    "case_name": "Silent Assassin",
+    "total_price": 110,
+    "hash": "c0d6ac871181c712d7ab2a89ca527421",
+    "slug": "silent-assassin",
+    "tags": {
+      "10%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/61124f69-90e6-4221-93f5-76ae457be800/"
+  },
+  {
+    "case_name": "Road Rash",
+    "total_price": 101,
+    "hash": "51dfcbc9b4bfe02deae5a9da2708f489",
+    "slug": "road-rash",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/061b55ce-be17-441e-7728-0311d3ab6d00/"
+  },
+  {
+    "case_name": "Boris and Hobbes",
+    "total_price": 78,
+    "hash": "ccebd2fceac4eadd285c9e9673c3b64f",
+    "slug": "boris-and-hobbes",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/dca655fe-49de-4148-f00c-3f50a8df6100/"
+  },
+  {
+    "case_name": "Kukri",
+    "total_price": 74,
+    "hash": "301d560322fa969856212a5dcb0ccec5",
+    "slug": "kukri",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/df51ecbc-9697-4550-06d2-c8958cef3000/"
+  },
+  {
+    "case_name": "Imperial",
+    "total_price": 51,
+    "hash": "a5f14667cf119aa61f23cc6332a05997",
+    "slug": "imperial",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/c65bea19-280d-4e24-8ec5-6e83beac5f00/"
+  },
+  {
+    "case_name": "Crimson Terror",
+    "total_price": 48,
+    "hash": "b2b42310ac9afa6ed7180d369f439bfe",
+    "slug": "crimson-terror",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/32dc1571-9609-4daf-74ac-d7127b73d300/"
+  },
+  {
+    "case_name": "Fool's Gold",
+    "total_price": 33,
+    "hash": "dfe20c571ddac4cd2ea1d38a57382728",
+    "slug": "fools-gold",
+    "tags": {
+      "1%": "Red"
+    },
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/7c43380b-b5bc-4ab9-edf4-addbd3add800/"
+  },
+  {
+    "case_name": "Artemis",
+    "total_price": 26,
+    "hash": "557d3348e59655b7ca5f0893c1bad9b0",
+    "slug": "artemis",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/2040133c-46af-4cf7-655d-d39a90d51100/"
+  },
+  {
+    "case_name": "Red Alert",
+    "total_price": 14,
+    "hash": "5736f618f6a503250befb812bf510d98",
+    "slug": "red-alert",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/100efcd6-2885-493f-dfd8-b5908ffe9e00/"
+  },
+  {
+    "case_name": "Please Sar",
+    "total_price": 2,
+    "hash": "c3b3a3c07ac56e709c2b305d0fe7c401",
+    "slug": "please-sar",
+    "tags": [],
+    "image_url": "https://imagedelivery.net/0ZvaEKTSlKUc2DwR965Mvw/bdf5fc80-620e-4991-f41f-174a6cff6800/"
+  }
+]

@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+/* tailwindcss directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 255, 0;
+  --background-rgb: 0, 0, 0;
+  --terminal-green: #00ff00;
+  --terminal-dark: #000000;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+  font-family: 'Kode Mono', monospace;
+}
+
+/* tailwindcss component styles */
+@layer components {
+  .terminal-button {
+    @apply bg-black border border-[#00ff00] text-[#00ff00] px-6 py-3 rounded hover:bg-[#003300] transition-colors duration-200;
+  }
+
+  .back-button {
+    @apply fixed top-0 left-0 px-4 py-2 border-2 border-terminal-green text-terminal-green hover:bg-terminal-green/20 transition-colors;
+    @apply w-full md:w-auto md:top-4 md:left-4;
+    @apply bg-black/95 md:bg-transparent;
+    @apply z-50;
+  }
+}
+
+.animate-glow {
+  text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+  }
+  to {
+    text-shadow: 0 0 15px #00ff00, 0 0 30px #00ff00;
+  }
+}
+
+/* Terminal specific styles */
+.text-terminal-green {
+  color: var(--terminal-green);
+}
+
+.border-terminal-green {
+  border-color: var(--terminal-green);
+}
+
+.bg-terminal-dark {
+  background-color: var(--terminal-dark);
+}
+
+.text-terminal-green\/70 {
+  color: rgba(0, 255, 0, 0.7);
+}
+
+.border-terminal-green\/50 {
+  border-color: rgba(0, 255, 0, 0.5);
+}
+
+.border-terminal-green\/70 {
+  border-color: rgba(0, 255, 0, 0.7);
+}
+
+.bg-terminal-green\/20 {
+  background-color: rgba(0, 255, 0, 0.2);
+}
+
+.bg-terminal-dark\/50 {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Yellow warning styles */
+.border-yellow-500 {
+  border-color: #eab308;
+}
+
+.bg-yellow-500\/10 {
+  background-color: rgba(234, 179, 8, 0.1);
+}
+
+.text-yellow-500 {
+  color: #eab308;
+}
+
+@layer utilities {
+  .animate-glow {
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+
+  .animate-pulse-subtle {
+    animation: pulse-subtle 2s ease-in-out infinite;
+  }
+
+  .animate-gradient-x {
+    animation: gradient-x 3s linear infinite;
+  }
+
+  .animate-spin-slow {
+    animation: spin 8s linear infinite;
+  }
+
+  .animate-spin-slow-reverse {
+    animation: spin 8s linear infinite reverse;
+  }
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px rgba(0, 255, 0, 0.5),
+                 0 0 20px rgba(0, 255, 0, 0.3),
+                 0 0 30px rgba(0, 255, 0, 0.2);
+  }
+  to {
+    text-shadow: 0 0 20px rgba(0, 255, 0, 0.6),
+                 0 0 30px rgba(0, 255, 0, 0.4),
+                 0 0 40px rgba(0, 255, 0, 0.2);
+  }
+}
+
+@keyframes pulse-subtle {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+@keyframes gradient-x {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.terminal-button {
+  @apply px-6 py-3 border-2 border-terminal-green text-terminal-green hover:bg-terminal-green/20 transition-colors;
+}
+
+.back-button {
+  @apply fixed top-0 left-0 px-4 py-2 border-2 border-terminal-green text-terminal-green hover:bg-terminal-green/20 transition-colors;
+  @apply w-full md:w-auto md:top-4 md:left-4;
+  @apply bg-black/95 md:bg-transparent;
+  @apply z-50;
+}
+
+.terminal-card {
+  @apply p-6 border-2 border-terminal-green hover:bg-terminal-green/20 transition-colors;
+}
+
+.terminal-card h2 {
+  @apply text-terminal-green text-xl mb-2;
+}
+
+.terminal-card p {
+  @apply text-terminal-green/70;
+}
