@@ -51,79 +51,47 @@ const CaseCard = ({ caseData, count = 1 }: { caseData: Case; count?: number }) =
   };
 
   return (
-    <div className="relative border-2 border-terminal-green p-2 md:p-4 rounded-lg bg-terminal-dark/50">
-      {/* Risk Label */}
-      {hasRiskTag || isHighRisk ? (
-        <div className="absolute top-2 right-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-red-500 border border-red-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(239,68,68,0.5)] hover:border-opacity-80 hover:text-opacity-80">
-          HIGH RISK
+    <div className="relative bg-terminal-dark border border-terminal-green p-4 rounded-lg hover:border-opacity-80 transition-all duration-300 flex flex-col items-center">
+      {count > 1 && (
+        <div className="absolute top-2 right-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-terminal-green border border-terminal-green">
+          x{count}
         </div>
-      ) : isMediumRisk ? (
-        <div className="absolute top-2 right-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-orange-500 border border-orange-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(249,115,22,0.5)] hover:border-opacity-80 hover:text-opacity-80">
-          MEDIUM RISK
-        </div>
-      ) : (
-        ['Odin', 'Kingdom', 'Marbled', 'Predator', 'Gamma Ray', 'Pot Of Gold', 'Serpent', 'Aquatic', 
-         'Butterfly Effect', 'Vice', 'Toucan', 'Assault', 'Butcher', 'Blood Moon', 'Shooting Iron', 'Night Rider',
-         'Doppler Effect', 'Royalty'].includes(caseData.case_name) && (
-          <div className="absolute top-2 right-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-terminal-green border border-terminal-green transition-all duration-300 hover:shadow-[0_0_15px_rgba(74,222,128,0.5)] hover:border-opacity-80 hover:text-opacity-80">
-            LOW RISK
-          </div>
-        )
       )}
 
-      {/* Percentage Tags */}
       {caseData.tags && typeof caseData.tags === 'object' && Object.entries(caseData.tags).map(([percentage, color]) => (
         percentage.includes('%') ? (
           <div
             key={percentage}
-            className="absolute top-2 left-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-red-500 border border-red-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(239,68,68,0.5)] hover:border-opacity-80 hover:text-opacity-80"
+            className="absolute top-2 left-2 px-2 py-1 rounded text-xs bg-black/50 backdrop-blur-sm text-red-500 border border-red-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(239,68,68,0.5)] hover:border-opacity-80 hover:text-opacity-80"
           >
             {percentage}
           </div>
         ) : percentage === 'New' ? (
           <div
             key={percentage}
-            className="absolute top-2 left-2 px-2 py-1 rounded text-xs bg-terminal-dark/80 text-yellow-500 border border-yellow-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(234,179,8,0.5)] hover:border-opacity-80 hover:text-opacity-80"
+            className="absolute top-2 left-2 px-2 py-1 rounded text-xs bg-black/50 backdrop-blur-sm text-yellow-500 border border-yellow-500 transition-all duration-300 hover:shadow-[0_0_15px_rgba(234,179,8,0.5)] hover:border-opacity-80 hover:text-opacity-80"
           >
             NEW
           </div>
         ) : null
       ))}
 
-      <Image
-        src={`${caseData.image_url}x340`}
-        alt={caseData.case_name}
-        width={200}
-        height={200}
-        className="w-full h-auto max-w-[150px] md:max-w-full mx-auto"
-      />
-      <div className="mt-2 text-center">
-        <div className="h-6 flex items-center justify-center">
-          {count > 1 && (
-            <div className="text-yellow-500 font-bold">
-              x{count}
-            </div>
-          )}
-        </div>
-        <div className="min-h-[40px] flex flex-col items-center justify-center">
-          <div className="flex flex-wrap items-center justify-center">
-            <h3 className="text-terminal-green font-bold text-sm md:text-base inline">{caseData.case_name}</h3>
-            <button
-              onClick={copyToClipboard}
-              className="text-terminal-green hover:text-terminal-green/70 transition-colors p-1 inline-flex"
-              title="Copy case name"
-            >
-              <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                <rect x="9" y="9" width="13" height="13" rx="2" ry="2" strokeWidth="2"/>
-                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" strokeWidth="2"/>
-              </svg>
-            </button>
-          </div>
-        </div>
-        <p className="text-terminal-green/70 flex items-center justify-center gap-1 text-sm md:text-base">
-          {formatPrice(caseData.total_price)}
+      <div className="w-full h-[200px] flex items-center justify-center mb-4">
+        <Image
+          src={`${caseData.image_url}x340`}
+          alt={caseData.case_name}
+          width={200}
+          height={200}
+          className="w-auto h-auto max-h-[180px] object-contain"
+        />
+      </div>
+
+      <div className="text-center mt-auto">
+        <h3 className="text-terminal-green font-medium mb-2">{caseData.case_name}</h3>
+        <div className="flex items-center justify-center gap-1">
+          <span className="text-terminal-green">{formatPrice(caseData.total_price)}</span>
           <Image src="/Coins.svg" alt="coins" width={14} height={14} />
-        </p>
+        </div>
       </div>
     </div>
   );

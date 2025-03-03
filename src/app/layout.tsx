@@ -34,6 +34,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/png" href="/favicon.png" />
+      </head>
       <body className="min-h-screen bg-black text-[#00ff00] font-['Kode_Mono']">{children}</body>
     </html>
   )
