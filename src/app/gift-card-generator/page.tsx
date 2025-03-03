@@ -9,7 +9,7 @@ const COIN_OPTIONS = [10, 25, 50, 100, 250, 500, 1000, 1500];
 
 const CoinIcon = () => (
   <Image
-    src="/coins.svg"
+    src="/Coins.svg"
     alt="coins"
     width={16}
     height={16}

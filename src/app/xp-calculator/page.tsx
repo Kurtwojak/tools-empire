@@ -102,7 +102,7 @@ const RankIcon = ({ rank }: { rank: RankName }) => (
 
 const CoinIcon = () => (
   <Image
-    src="/coins.svg"
+    src="/Coins.svg"
     alt="coins"
     width={16}
     height={16}
