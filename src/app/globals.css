@@ -200,3 +200,23 @@ body {
 .terminal-card p {
   @apply text-terminal-green/70;
 }
+
+.terminal-box {
+  @apply bg-black border border-terminal-green rounded;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.1);
+}
+
+.terminal-box:hover {
+  box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+}
+
+/* Hide number input spinners */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}

@@ -4,16 +4,6 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'ToolsEmpire',
   description: 'Tools to make you gamba experience a little bit better.',
-  icons: {
-    icon: [
-      {
-        url: '/favicon.ico',
-        sizes: 'any'
-      }
-    ],
-    shortcut: '/favicon.ico',
-    apple: '/favicon.ico',
-  },
   openGraph: {
     title: 'ToolsEmpire',
     description: 'Tools to make you gamba experience a little bit better.',
@@ -41,9 +31,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head>
-        <link rel="icon" href="/favicon.ico" />
-      </head>
       <body className="min-h-screen bg-black text-[#00ff00] font-['Kode_Mono']">{children}</body>
     </html>
   )
