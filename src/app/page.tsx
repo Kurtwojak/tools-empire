@@ -58,6 +58,15 @@ export default function Home() {
               Wanna be the ultimate jew and calculate how much commission you&apos;ll earn off of your referrals? Perfect tool for you
             </p>
           </div>
+
+          <div className="flex flex-col items-center">
+            <Link href="/panel-generator" className="terminal-button p-6 text-center w-full">
+              Banner Design Generator
+            </Link>
+            <p className="text-sm text-terminal-green/70 max-w-[500px] text-center mb-8">
+              Generate Banner art with your code. Great for content creators, streamers and hardcore degens.
+            </p>
+          </div>
         </div>
 
         <Footer />
